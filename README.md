@@ -9,3 +9,4 @@ explain the logic behind props, state, and interactivity.
 
 ## Screenshot
 (Add a screenshot of the running component with your comments visible in the code editor)
+<img width="2053" height="1100" alt="10aAssignment" src="https://github.com/user-attachments/assets/d34a35a7-f7b4-4d81-b9f1-ef0106eff131" />
